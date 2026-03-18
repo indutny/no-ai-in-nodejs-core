@@ -89,6 +89,7 @@ speed up the process.
 - Denys Nykula (JS/TS Programmer)
 - Bryan English (Node.js Core Collaborator, user since Ryan announced it)
 - Andrew Benbow (Web Developer)
+- Reilly Spitzfaden (Programmer, Node.js User)
 - James Sumners (Open Source Developer)
 - Jeremy Jenkins (Software Engineer)
 
