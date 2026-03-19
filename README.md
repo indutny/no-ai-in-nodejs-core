@@ -105,6 +105,7 @@ speed up the process.
 - Ben Vinnerd (Javascript/Typescript Developer)
 - Brandon Berg (Systems Engineer)
 - Nicolai Kamenzky (SaaS founder, depending on Node.js since 2014)
+- Stephen Smit (Software Engineering Manager)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
