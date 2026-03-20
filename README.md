@@ -166,6 +166,7 @@ speed up the process.
 - Hunter Perrin (Software Engineer, Owner, SciActive Inc / Port87)
 - Artur Gawlik (Software Engineer)
 - Imran Latif (Software Engineer)
+- Jonathan Carle (Software Engineer, Open Source Developer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
