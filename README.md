@@ -118,6 +118,7 @@ speed up the process.
 - Edward Loveall (Software Developer)
 - Diogo Goncalves Silva (Software Engineer)
 - Johan Alkstål (Software Developer)
+- Taha Jumaah (Software Developer)
 - Pierre-Olivier Marec (Software Engineer, Node.js user)
 - Frazer Smith (Open Source Developer)
 - LittleSnow (Front-end Developer)
