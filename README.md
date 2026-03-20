@@ -118,6 +118,7 @@ speed up the process.
 - Edward Loveall (Software Developer)
 - Diogo Goncalves Silva (Software Engineer)
 - Johan Alkstål (Software Developer)
+- Eirik Berget Haukeland (Software Developer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
