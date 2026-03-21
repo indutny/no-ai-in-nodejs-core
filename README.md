@@ -172,6 +172,7 @@ speed up the process.
 - Madeline Gurriarán (Programmer, Open Source Maintainer)
 - Anthony C Howe (Software Developer)
 - Filip Maj (Software Engineer)
+- Gabriel Schmitt (Software Engineer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
