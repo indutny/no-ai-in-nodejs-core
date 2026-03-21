@@ -169,6 +169,7 @@ speed up the process.
 - Jonathan Carle (Software Engineer, Open Source Developer)
 - Debagnik Kar (Software Engineer, fullstack, IBM)
 - Alexander Praetorius (Peer to Peer Engineer, Open Source Developer)
+- Madeline Gurriarán (Programmer, Open Source Maintainer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
