@@ -185,6 +185,9 @@ speed up the process.
 - Erik Westra (Developer)
 - Andrei Mandrican (Developer)
 - Pascal Le Merrer (Developer)
+- Christopher Spears (Software Engineer)
+- Sahil Agarwal (Developer, Nodejs user)
+- Benoît Bailleux (Software Architect / Corporate OpenSource Advocate)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
