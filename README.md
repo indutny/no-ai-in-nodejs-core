@@ -193,6 +193,8 @@ speed up the process.
 - Leslie Wong (Software Engineer)
 - Denis Craig (Software Engineer)
 - Connor Z (Software Engineer)
+- Alex Petcoglo (Developer)
+- Abhinav Patel (Software Engineer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
