@@ -205,6 +205,7 @@ speed up the process.
 - Josh Junon
 - Pavlo Ivanichenko
 - Sinigur Artiom
+- Lil-Kr (Full-Stack Developer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
