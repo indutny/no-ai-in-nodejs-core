@@ -218,6 +218,7 @@ speed up the process.
 - Alexander Myadzel (Web Developer)
 - Alexey Volkov (Software engineer, 20+ years of experience, buiding with Node since 2014)
 - Zheng Jiawen (web developer)
+- Kyle H (Software Engineer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
