@@ -129,7 +129,6 @@ speed up the process.
 - Akhil Grandhi (Full Stack Developer)
 - Jörn Zaefferer (Software Engineer)
 - Claudius Coenen (Software Developer, Professor)
-- Ben Vinnerd (Javascript/Typescript Developer)
 - Brandon Berg (Systems Engineer)
 - Nicolai Kamenzky (SaaS founder, depending on Node.js since 2014)
 - Johnathan Stevers (Programmer)
@@ -212,7 +211,7 @@ speed up the process.
 - Christian Ekrem (Staff Engineer, author of [An Elm Primer for React Developers](https://leanpub.com/elm-for-react-devs))
 - Arnaud Christ (Software Engineer)
 - Javid Izadfar
-- Davide Pozzoni (DevSecOps Engineer and Full-Stack Developer) 
+- Davide Pozzoni (DevSecOps Engineer and Full-Stack Developer)
 - Bruno Baroni (Software Engineer)
 - Subash Babu
 - Alexander Myadzel (Web Developer)
